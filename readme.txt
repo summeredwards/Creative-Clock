@@ -1,0 +1,3 @@
+This project required to transform the traditional clock into something creative. The french fries represent the hours; if there is one fry in the bag, then it is 1:00, two fries means 2:00, etc. The drink on the right shows numbers along the side of the cup, representing the minutes. Every five minutes, the drink will fill up. Every second, the color in the background slowly gets lighter and lighter. At zero seconds, the color will be dark purple; while at second 59, the color will be white. 
+
+This website was created for my Introductory Web class.
